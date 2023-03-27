@@ -15,7 +15,7 @@ public class Lotto_version_02 {
 		System.out.println("당신의 인생에서 로또 1등이 정말 가능할까요?");
 		System.out.print("당신의 이름: ");
 		String name = scan.nextLine();
-		
+		System.out.println("sadfasfdasf");
 		
 		boolean bool = true;
 		int gameSu = 0;
